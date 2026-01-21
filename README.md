@@ -1,2 +1,2 @@
 # Color_generator
-(https://petrl45.github.io/Color_generator/)[Page]
+[Page](https://petrl45.github.io/Color_generator/)
